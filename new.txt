@@ -1,1 +1,4 @@
 This is a new file.
+
+Now the first file has been changed.
+It is now mdified.
